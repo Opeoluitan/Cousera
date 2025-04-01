@@ -1,0 +1,6 @@
+name = ("enter your name")
+Age = ("enter your age")
+Last_name = ("enter last name")
+print(name)
+print(Age)
+print(Last_name)
